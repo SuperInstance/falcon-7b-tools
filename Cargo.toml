@@ -1,6 +1,9 @@
 [package]
 name = "falcon-7b-tools"
 version = "0.1.0"
-edition = "2024"
+description = "A Rust library for Falcon 7b Tools"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/falcon-7b-tools"
+edition = "2021"
 
 [dependencies]

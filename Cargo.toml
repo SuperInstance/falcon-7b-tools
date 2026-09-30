@@ -1,9 +1,11 @@
 [package]
 name = "falcon-7b-tools"
 version = "0.1.0"
-description = "A Rust library for Falcon 7b Tools"
+description = "Falcon 7b Tools — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/falcon-7b-tools"
+repository = "https://github.com/SuperInstance/falcon-7b-tools"
 edition = "2021"
+
+keywords = ["falcon-7b-tools"]
 
 [dependencies]
